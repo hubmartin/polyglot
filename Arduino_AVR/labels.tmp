@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega168</DEVICE>
+ <WORKING_DIR>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m168def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.map</FILE>
+  <FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.lst</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.asm</FILE><LINE>33</LINE></main>
+  <delay><FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.asm</FILE><LINE>18</LINE></delay>
+  <delay_loop><FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.asm</FILE><LINE>23</LINE></delay_loop>
+  <loop><FILE>C:\Users\hp\Dropbox\Bckup\Dev\polyglot\avr\polyglot.asm</FILE><LINE>36</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

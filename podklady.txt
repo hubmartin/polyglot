@@ -1,0 +1,25 @@
+
+
+AVR
+reset vektor 0x0000
+
+000000 c00a      	rjmp main
+
+
+x51
+reset vektor 0x0000
+instrukce ignorované
+0xc0 - push
+0x0a - inc R4
+
+57600, jumper vlevo
+
+SJMP - short jump 2 byte
+
+ARM
+reset vektor 0x0004
+
+
+
+brainfuck interpreter 
+https://gist.github.com/maxcountryman/1699708
